@@ -1,0 +1,115 @@
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.header {
+    text-align: left
+}
+
+.profile-image {
+    width: 4%;
+    padding: 10px;
+}
+
+.profile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header-desc{
+    text-align: right;
+    padding: 10px;
+}
+
+td {
+    text-align:justify;
+}
+
+.seperator {
+    border-bottom: 1px solid #100505;
+}
+
+.section {
+    font-size: 20px;
+    font-style: italic;
+    width: 15%;
+}
+
+.date {
+    text-align: right;
+    font-weight: bold;
+}
+
+.gpa {
+    text-align: right;
+}
+
+.degree {
+    font-weight: bold;
+}
+
+.companyname {
+    font-weight: bold;
+}
+
+.skillheading {
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    justify-content: center;
+    padding: 5px;
+    background-color: #000000;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    color: #fff;
+    justify-content: center;
+    padding: 15px;
+    background-color: #000000;
+    color: #fff;
+}
+
+.contact {
+    color: white;
+}
+
+.hobbies {
+    color: white;
+}
+
+.contact-heading {
+    text-align: center;
+}
+
+.contact-list {
+    width: 50%;
+}
+
+.home {
+    color: white;
+}
+
+.hobby-head {
+    text-align: center;
+}
+
+.hobby-desc {
+    text-align: center;
+}
+
+.hobby-list {
+    width: 25%;
+}
